@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Rocket+!
 
-You can use the [editor on GitHub](https://github.com/fishermedders/RocketPlusSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Soon, you will be able to buy your very own copy of Rocket+ for Rust!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
